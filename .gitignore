@@ -1,0 +1,16 @@
+# Pacotes gerados (Windows e web): refeitos com ferramentas/build_web.py
+dist/
+
+# Saves de quem joga
+save/
+
+# Saidas temporarias dos scripts de montagem
+ferramentas/prev/
+ferramentas/prev4/
+ferramentas/prev_v2/
+ferramentas/snaps/
+ferramentas/musica/
+ferramentas/prev_*.png
+__pycache__/
+*.pyc
+*.tmp
